@@ -1,4 +1,6 @@
 title: charagarlnad
+email:
+description: This is just a simple blog for me to air my thoughts and opinions.
 show_excerpts: true
 baseurl:
 url: https://charagarlnad.github.io
