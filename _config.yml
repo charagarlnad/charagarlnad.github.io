@@ -12,7 +12,7 @@ dash:
   date_format: "%b %-d, %Y"
 
   social_links:
-    - url: https://twitter.com/charagarlnad
+    - url: https://twitter.com/charadeux
       icon: twitter
       color: cyan
     - url: https://github.com/charagarlnad
