@@ -1,0 +1,33 @@
+title: charagarlnad
+email:
+description: > # this means to ignore newlines until "show_exerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl:
+url: https://charagarlnad.github.io
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+dash:
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    - url: https://twitter.com/charagarlnad
+      icon: twitter
+      color: cyan
+    - url: https://github.com/charagarlnad
+      icon: github
+      color: purple
+    - url: https://discord.gg/FJetFBe
+      icon: discord
+      color: indigo
+
+# Build settings
+theme: jekyll-dash
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-paginate
