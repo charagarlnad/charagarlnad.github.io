@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to my new blog!"
+date:   2019-10-16 18:56:00 -0400
+---
+Finally got around to setting up a blog on my github.io domain, I feel a little torn about using Jekyll over building my own thing in koa.js, but this was a lot less work and upkeep so I think it's a worthwhile tradeoff.
+
+> p.s. [here's a hint](https://github.com/charagarlnad/miscellaneous/blob/master/pwnagotchi-optimize.sh) on what my upcoming post will be on ;)
