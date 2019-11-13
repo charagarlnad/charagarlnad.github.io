@@ -11,6 +11,9 @@ paginate_path: "/blog/page:num/"
 dash:
   date_format: "%b %-d, %Y"
 
+  disqus:
+    shortname: charagarlnad
+
   social_links:
     - url: https://twitter.com/charadeux
       icon: twitter
