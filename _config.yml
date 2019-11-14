@@ -1,6 +1,15 @@
 title: charagarlnad
 email:
-description: This is just a simple blog for me to air my thoughts and opinions.
+description: "
+◢◥　◤◣　◢◥◤　◣
+◤◥　◢◣　◤◥　◢◣◤
+◥　◤◣　◢◥　◤◣　◢
+◢　◣　◤◥　◢◣　◤◥
+◣◢　◥　◤◣　◢◥◤
+◣◤　◥◢　◣　◤◥　◢
+◢　◥◤　◣◢　◥　◤◣
+◥◢　◣◤　◥◢　◣◤ 
+◣　◤◣　◣◢　◥　◤◥"
 show_excerpts: true
 baseurl:
 url: https://charagarlnad.github.io
@@ -21,9 +30,9 @@ dash:
     - url: https://github.com/charagarlnad
       icon: github
       color: purple
-    - url: https://discord.gg/FJetFBe
-      icon: discord
-      color: indigo
+#    - url: https://discord.gg/FJetFBe
+#      icon: discord
+#      color: indigo
 
 remote_theme: bitbrain/jekyll-dash
 plugins:
